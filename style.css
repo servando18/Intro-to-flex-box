@@ -1,0 +1,23 @@
+h3 {
+  text-align: center;
+}
+
+.flex-container1 {
+  /* Add one line of code below to make this element a flexbox */
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  
+  
+}
+
+.flex-container1 div {
+  background: turquoise;
+  border: 4px solid blue;
+  height: 100px;
+  /* Add one line of code below to make these elements a flex item */
+  
+}
+
+/* Add your CSS for Part 2 below */
+
